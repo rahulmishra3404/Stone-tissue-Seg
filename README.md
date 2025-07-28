@@ -3,4 +3,5 @@ It uses SAM for segmentation of a Stone-tissue To automatically annotate a Stone
 
 
 for SAM  .pth  files refer to this link 
-https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
+https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth  and add this to main folder.
+
